@@ -25,6 +25,7 @@ dist
 
 # Dependency directories
 node_modules/
+.idea
 
 # TypeScript v1 declaration files
 typings/
